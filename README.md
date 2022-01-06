@@ -15,8 +15,8 @@ Result images will be in `/output/` and videos with sound will be in `/output/so
 
 ### App Demo
 Click image view Youtube video<br>
-[<img src="https://i3.ytimg.com/vi/wRkt-qNl5Uk/maxresdefault.jpg" width="512" height="512" target="_blank">](https://www.youtube.com/watch?v=wRkt-qNl5Uk)<br>
-Demo navigating through the FaceAnonApp Folder 
-showing where to put the input videos, 
-how to launch the program,
+[<img src="https://i3.ytimg.com/vi/wRkt-qNl5Uk/maxresdefault.jpg" width="640" height="360" target="_blank">](https://www.youtube.com/watch?v=wRkt-qNl5Uk)<br>
+Demo navigating through the FaceAnonApp Folder <br>
+showing where to put the input videos <br>
+how to launch the program <br>
 and where the results are stored.
